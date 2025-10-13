@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { MatrixRain } from "@/components/MatrixRain";
 import { FloatingParticles } from "@/components/FloatingParticles";
+import { EasterEggs } from "@/components/EasterEggs";
 import { Card3D } from "@/components/3DCard";
 import { Shield, Code, Bug, Cpu, Lock, Terminal, Mail, Github, Linkedin, Twitter } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -63,6 +64,7 @@ const Index = () => {
     <div className="min-h-screen relative overflow-hidden">
       <MatrixRain />
       <FloatingParticles />
+      <EasterEggs />
 
       {/* Navigation */}
       <motion.nav
