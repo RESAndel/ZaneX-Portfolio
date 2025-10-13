@@ -55,8 +55,8 @@ export const certifications = [
 
 export const contactLinks = [
   { icon: Mail, label: "Email", href: "mailto:resandelgmin@gmail.com" },
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/your-profile" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://pranx.com/fake-dos/" },
   { icon: Github, label: "GitHub", href: "https://github.com/RESAndel" },
-  { icon: Twitter, label: "Twitter", href: "https://twitter.com/your-handle" }
+  { icon: Twitter, label: "Twitter", href: "https://pranx.com/bios/" }
 ];
 export const navLinks = ["About", "Skills", "Projects", "Certifications", "Contact"];
