@@ -54,7 +54,7 @@ export const certifications = [
 ];
 
 export const contactLinks = [
-  { icon: Mail, label: "Email", href: "resandelgming@gmail.com" },
+  { icon: Mail, label: "Email", href: "mailto:resandelgming@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", href: "https://pranx.com/matrix-code-rain/" },
   { icon: Github, label: "GitHub", href: "https://github.com/RESAndel" },
   { icon: Twitter, label: "Twitter", href: "https://pranx.com/bios/" }
