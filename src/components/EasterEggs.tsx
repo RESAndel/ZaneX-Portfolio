@@ -98,7 +98,7 @@ export const EasterEggs = () => {
           <PopupContent>
             <div className="text-6xl mb-4 animate-pulse">🎮</div>
             <div className="text-background text-2xl font-bold">KONAMI CODE ACTIVATED!</div>
-            <div className="text-background mt-2">You're a human </div>
+            <div className="text-background mt-2">You're a human : u can try click Linkedin or Tweet Buttons some intresting stuff there </div>
           </PopupContent>
         )}
 
